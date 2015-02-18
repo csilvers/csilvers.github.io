@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://csilvers.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: The csilvers technical blog
+subtitle: A blog about technical issues
+author: Craig Silverstein
 simple_search: https://www.google.com/search
 description:
 
@@ -17,7 +17,7 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: http://feedburner.google.com/fb/a/mailverify?uri=craigstuff/tech_blog&amp;loc=en_US
 # RSS feeds can list your email address if you like
 email:
 
@@ -64,9 +64,9 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
-github_show_profile_link: true
+github_user: csilvers
+github_repo_count: 5
+github_show_profile_link: false
 github_skip_forks: true
 
 # Twitter
@@ -95,7 +95,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-4727800-2
 
 # Facebook Like
 facebook_like: false
