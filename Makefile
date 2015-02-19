@@ -3,6 +3,7 @@
 deploy:
 	rake generate
 	rake deploy
+	git push
 
 new:
 	[ -n "${TITLE}" ] && rake 'new_post[${TITLE}]'
