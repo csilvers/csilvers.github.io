@@ -1,3 +1,5 @@
+.PHONY: deploy new preview
+
 deploy:
 	rake generate
 	rake deploy
