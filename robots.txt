@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://csilvers.github.io/sitemap.xml 

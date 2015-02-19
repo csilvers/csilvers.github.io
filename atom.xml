@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The csilvers technical blog]]></title>
+  <link href="http://csilvers.github.io/atom.xml" rel="self"/>
+  <link href="http://csilvers.github.io/"/>
+  <updated>2015-02-18T16:01:58-08:00</updated>
+  <id>http://csilvers.github.io/</id>
+  <author>
+    <name><![CDATA[Craig Silverstein]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New Blog Time]]></title>
+    <link href="http://csilvers.github.io/blog/2015/02/18/new-blog-time/"/>
+    <updated>2015-02-18T00:00:00-08:00</updated>
+    <id>http://csilvers.github.io/blog/2015/02/18/new-blog-time</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve bitten the bullet and created a technical blog.  This will be the
+blog where I discuss technical issues, especially interesting
+issues that come up via my work at [<a href="http://www.khanacademy.org">http://www.khanacademy.org</a> Khan
+Academy].</p>
+]]></content>
+  </entry>
+  
+</feed>
