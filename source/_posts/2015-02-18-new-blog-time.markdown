@@ -10,3 +10,8 @@ I've bitten the bullet and created a technical blog.  This will be the
 blog where I discuss technical issues.  A lot of interesting technical
 problems come up via my work at [Khan
 Academy](http://www.khanacademy.org), and this is where I'll share them.
+
+And now I will say the word "technical" a few more times.
+Technical technical technical technical.
+
+Technical.
