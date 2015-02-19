@@ -4,7 +4,7 @@
   <title><![CDATA[The csilvers technical blog]]></title>
   <link href="http://csilvers.github.io/atom.xml" rel="self"/>
   <link href="http://csilvers.github.io/"/>
-  <updated>2015-02-18T16:01:58-08:00</updated>
+  <updated>2015-02-18T16:05:49-08:00</updated>
   <id>http://csilvers.github.io/</id>
   <author>
     <name><![CDATA[Craig Silverstein]]></name>
@@ -19,9 +19,9 @@
     <updated>2015-02-18T00:00:00-08:00</updated>
     <id>http://csilvers.github.io/blog/2015/02/18/new-blog-time</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve bitten the bullet and created a technical blog.  This will be the
-blog where I discuss technical issues, especially interesting
-issues that come up via my work at [<a href="http://www.khanacademy.org">http://www.khanacademy.org</a> Khan
-Academy].</p>
+blog where I discuss technical issues.  A lot of interesting technical
+problems come up via my work at <a href="http://www.khanacademy.org">Khan
+Academy</a>, and this is where I&rsquo;ll share them.</p>
 ]]></content>
   </entry>
   
